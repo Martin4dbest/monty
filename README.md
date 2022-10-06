@@ -50,4 +50,3 @@ To compile this project, you can use the following command:
 15. queue,  stack    toggles the doubly link list implementation style
 
 16. nop       opcode should do nothing
-
