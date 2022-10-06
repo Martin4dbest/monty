@@ -71,3 +71,30 @@ $ ./montyfile opcodetestfile.m
 
 $
 
+$ cat opcodetestfile.m
+
+push 1
+
+push 2
+
+push 3
+
+pall
+
+rotl
+
+pall
+
+$ ./montyfile opcodetestfile.m
+
+3
+
+2
+
+1
+
+2
+
+1
+
+3
