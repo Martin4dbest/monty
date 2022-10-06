@@ -102,3 +102,6 @@ $ ./montyfile opcodetestfile.m
 <h2>Exit Status</h2>
 Exits with status EXIT_FAILURE
 <h2>Compilation<h2>
+All files were compiled on Ubuntu 14.04 LTS.
+
+All programs and functions were compiled with gcc 4.8.4 using flags -Wall -Werror -Wextra and -pedantic.
