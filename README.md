@@ -51,3 +51,23 @@ To compile this project, you can use the following command:
 
 16. nop       opcode should do nothing.
 
+Examples: $ cat opcodetestfile.m
+
+push 1
+
+push 2
+
+push 3
+
+pall
+
+$ ./montyfile opcodetestfile.m
+
+3
+
+2
+
+1
+
+$
+
