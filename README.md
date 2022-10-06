@@ -98,3 +98,7 @@ $ ./montyfile opcodetestfile.m
 1
 
 3
+
+<h2>Exit Status</h2>
+Exits with status EXIT_FAILURE
+<h2>Compilation<h2>
